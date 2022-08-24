@@ -1,3 +1,3 @@
 # exercicosPraticos
 
-Exercicios fora das plataformas online que o professor Nelio Alves passa.
+Exercicios praticos do curso do Nelio Alves no Udemy
